@@ -212,6 +212,15 @@ You can also add or reorder rules by editing `RULES` and `RULE_NAMES`.
 
 ---
 
+## Examples
+
+### Rule90xRule90
+<img width="553" height="547" alt="image" src="https://github.com/user-attachments/assets/f7be6203-5b08-4149-a702-51474e1f0e3d" />
+
+### Rule30xRule30
+<img width="656" height="664" alt="image" src="https://github.com/user-attachments/assets/1e418b84-d8fd-4a27-b9a5-a3fa9b0837d7" />
+
+
 ## 💡 Ideas for extension
 
 - **Non-elementary rules**: add 1D automata with a larger radius (5 cells) or totalistic rules.
